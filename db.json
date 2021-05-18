@@ -1,54 +1,40 @@
 {
-    "logs": [
-      {
-        "message": "Changed network card in server 007",
-        "attention": false,
-        "tech": "Sam Smith",
-        "date": "2021-05-03T15:46:10.179Z",
-        "id": 1
-      },
-      {
-        "id": 2,
-        "message": "Fixed hard drive on workstation 002",
-        "attention": false,
-        "tech": "John Doe",
-        "date": "2021-05-03T16:18:04.245Z"
-      },
-      {
-        "message": "1122 wireless down",
-        "attention": true,
-        "tech": "Sara Wilson",
-        "date": "2021-05-04T15:46:48.690Z",
-        "id": 3
-      },
-      {
-        "id": 4,
-        "message": "Workstation 026 is up and running",
-        "attention": false,
-        "tech": "Sara Wilson",
-        "date": "2021-05-04T19:57:35.544Z"
-      }
-    ],
-    "techs": [
-      {
-        "id": 1,
-        "firstName": "John",
-        "lastName": "Doe"
-      },
-      {
-        "id": 2,
-        "firstName": "Sam",
-        "lastName": "Smith"
-      },
-      {
-        "id": 3,
-        "firstName": "Sara",
-        "lastName": "Wilson"
-      },
-      {
-        "id": 4,
-        "firstName": "Billy",
-        "lastName": "Debob"
-      }
-    ]
-  }
+  "logs": [
+    {
+      "message": "Workstation 0234 won't power on",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-05-18T02:20:34.744Z",
+      "id": 1
+    },
+    {
+      "message": "Replaced Hard Drive on workstation 008",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-05-18T02:21:20.695Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 4,
+      "firstName": "Billy",
+      "lastName": "Debob"
+    }
+  ]
+}
