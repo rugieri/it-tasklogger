@@ -6,13 +6,6 @@
       "tech": "Sara Wilson",
       "date": "2021-05-18T02:20:34.744Z",
       "id": 1
-    },
-    {
-      "message": "Replaced Hard Drive on workstation 008",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-05-18T02:21:20.695Z",
-      "id": 2
     }
   ],
   "techs": [
