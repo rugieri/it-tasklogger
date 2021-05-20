@@ -6,6 +6,13 @@
       "tech": "Sara Wilson",
       "date": "2021-05-18T02:20:34.744Z",
       "id": 1
+    },
+    {
+      "message": "GPU from desktop 9998 fixed",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-05-20T03:09:18.947Z",
+      "id": 2
     }
   ],
   "techs": [
