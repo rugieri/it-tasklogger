@@ -1,4 +1,5 @@
-import { GET_LOGS, 
+import {
+    GET_LOGS, 
     SET_LOADING, 
     LOGS_ERROR, 
     ADD_LOG, 

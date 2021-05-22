@@ -18,7 +18,7 @@ const LogItem = ({ log, deleteLog, setCurrent }) => {
                 className={`modal-trigger 
                   ${log.attention ? 'red-text' : 'blue-text'
                 }`}
-                onCLick={() => setCurrent(log)}
+                onClick={() => setCurrent(log)}
             >
                  {log.message}
                 </a>
@@ -40,7 +40,7 @@ const LogItem = ({ log, deleteLog, setCurrent }) => {
 LogItem.propTypes = {
     log: PropTypes.object.isRequired,
     deleLog: PropTypes.func.isRequired,
-    setCurrent: PropTypes.func.isRequired,
+    setCurrent: PropTypes.func.isRequired
 
 };
 export default connect(null, { deleteLog, setCurrent })(LogItem);
