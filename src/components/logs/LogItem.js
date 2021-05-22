@@ -39,7 +39,7 @@ const LogItem = ({ log, deleteLog, setCurrent }) => {
 
 LogItem.propTypes = {
     log: PropTypes.object.isRequired,
-    deleLog: PropTypes.func.isRequired,
+    deleteLog: PropTypes.func.isRequired,
     setCurrent: PropTypes.func.isRequired
 
 };
