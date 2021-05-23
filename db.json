@@ -2,24 +2,17 @@
   "logs": [
     {
       "id": 2,
-      "message": "GPU from desktop 9998 is broken",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-05-23T15:14:24.256Z"
+      "message": "GPU from desktop 9998 was replaced",
+      "attention": false,
+      "tech": "undefined Wilson",
+      "date": "2021-05-23T15:55:03.058Z"
     },
     {
-      "message": "Mouse broken, must be replaced or fixed",
-      "attention": true,
+      "id": 3,
+      "message": "Mouse  replaced ",
+      "attention": false,
       "tech": "undefined Colorado",
-      "date": "2021-05-23T15:19:00.491Z",
-      "id": 3
-    },
-    {
-      "message": "Cano quebrado",
-      "attention": true,
-      "tech": "undefined do Oito",
-      "date": "2021-05-23T15:38:34.291Z",
-      "id": 4
+      "date": "2021-05-23T15:54:20.478Z"
     }
   ],
   "techs": [
@@ -47,21 +40,6 @@
       "firstName": "Chapolin",
       "lastName": "Colorado",
       "id": 5
-    },
-    {
-      "firstName": "John",
-      "lastName": "Jones",
-      "id": 6
-    },
-    {
-      "firstName": "Chavez",
-      "lastName": "do Oito",
-      "id": 7
-    },
-    {
-      "firstName": "Seu",
-      "lastName": "Barriga",
-      "id": 8
     }
   ]
 }
