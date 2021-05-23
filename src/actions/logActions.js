@@ -134,19 +134,19 @@ export const setCurrent = log => {
     return {
         type: SET_CURRENT,
         payload: log
-    }
-}
+    };
+};
 // Clear current log
 export const clearCurrent = () => {
     return {
         type: CLEAR_CURRENT
         
-    }
-}
+    };
+};
 // Set Loading to true
 export const setLoading = () => {
     return {
         type: SET_LOADING
     };
- }
+ };
 

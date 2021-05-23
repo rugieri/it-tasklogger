@@ -12,6 +12,7 @@ export const getTechs = () => async dispatch => {
         setLoading();
         const res = await fetch('/techs');
         const data = await res.json();
+        
         dispatch({
             type: GET_TECHS,
             payload: data
@@ -56,7 +57,7 @@ export const addTech = tech => async dispatch => {
     
 };
 // Delete techs
-export const deleteTech = (id) => async dispatch => {
+export const deleteTech = id => async dispatch => {
     try {
         setLoading();
         await fetch(`/techs/${id}`, {
