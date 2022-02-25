@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "GPU from desktop 9998 was replaced",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-05-23T20:33:18.955Z"
-    },
-    {
       "id": 3,
       "message": "Mouse  replaced ",
       "attention": false,
@@ -16,24 +9,17 @@
     },
     {
       "id": 4,
-      "message": "Headphone changed",
+      "message": "Headphone replaced",
       "attention": false,
-      "tech": "Billy Debob",
-      "date": "2021-09-02T03:21:59.620Z"
-    },
-    {
-      "message": "Workstation 9887 don't power on",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2021-05-23T20:43:29.064Z",
-      "id": 5
+      "tech": "Chapolin Colorado",
+      "date": "2022-02-25T15:02:54.105Z"
     },
     {
       "id": 6,
-      "message": "serviço de merda, tem que trocar novamente",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-07-09T16:24:41.406Z"
+      "message": "replaced SSD",
+      "attention": false,
+      "tech": "Ruby McBooby",
+      "date": "2022-02-25T15:04:10.696Z"
     }
   ],
   "techs": [
@@ -61,6 +47,11 @@
       "firstName": "Sam",
       "lastName": "Smith",
       "id": 6
+    },
+    {
+      "firstName": "Ruby",
+      "lastName": "McBooby",
+      "id": 7
     }
   ]
 }
