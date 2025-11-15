@@ -15,7 +15,7 @@
     "glob-parent": "6.0.2",
     "immer": "9.0.12",
     "is-svg": "4.4.0",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "materialize-css": "^1.0.0",
     "mem": "9.0.2",
     "merge": "2.1.1",
